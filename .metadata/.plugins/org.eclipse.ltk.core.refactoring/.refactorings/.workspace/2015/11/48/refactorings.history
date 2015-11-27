@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;TCWireless.DataProcessing.Aladdin&apos;" deleteContents="false" description="Delete resource &apos;TCWireless.DataProcessing.Aladdin&apos;" element1="/TCWireless.DataProcessing.Aladdin" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1448608117066"/>
+</session>

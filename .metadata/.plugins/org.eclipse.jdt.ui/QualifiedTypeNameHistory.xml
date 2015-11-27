@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Espresso"/>
+<fullyQualifiedTypeName name="Beverage"/>
+<fullyQualifiedTypeName name="Mocha"/>
+<fullyQualifiedTypeName name="Trial.WeatherData"/>
+<fullyQualifiedTypeName name="Trial.CurrentConditionDisplay"/>
+<fullyQualifiedTypeName name="Trial.NYStyleCheesePizza"/>
+<fullyQualifiedTypeName name="Trial.NYPizzaStore"/>
+<fullyQualifiedTypeName name="Trial.PizzaStore"/>
+<fullyQualifiedTypeName name="Trial.ChicagoStyleCheesePizza"/>
+<fullyQualifiedTypeName name="Trial.Pizza"/>
+<fullyQualifiedTypeName name="java.awt.MenuItem"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.NumberOfInterveningJobs"/>
+<fullyQualifiedTypeName name="java.awt.peer.MenuItemPeer"/>
+<fullyQualifiedTypeName name="myTrial.DinnerMenuIterator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="myTrial.PancakeHouseMenuIterator"/>
+<fullyQualifiedTypeName name="myTrial.Iterator"/>
+<fullyQualifiedTypeName name="myTrial.MenuItem"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="myTrial.PancakeHouseMenu"/>
+<fullyQualifiedTypeName name="myTrial.DinnerMenu"/>
+<fullyQualifiedTypeName name="myTrial.Waitress"/>
+</qualifiedTypeNameHistroy>
