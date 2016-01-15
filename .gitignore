@@ -218,3 +218,9 @@ proguard/
 *.iws
 .idea/
 
+#otherFiles
+*.tree
+*.resources
+*.xmi
+*.running
+
