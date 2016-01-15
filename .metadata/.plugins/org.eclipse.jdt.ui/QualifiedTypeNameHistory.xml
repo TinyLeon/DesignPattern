@@ -19,9 +19,15 @@
 <fullyQualifiedTypeName name="myTrial.PancakeHouseMenuIterator"/>
 <fullyQualifiedTypeName name="myTrial.Iterator"/>
 <fullyQualifiedTypeName name="myTrial.MenuItem"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="myTrial.PancakeHouseMenu"/>
 <fullyQualifiedTypeName name="myTrial.DinnerMenu"/>
 <fullyQualifiedTypeName name="myTrial.Waitress"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="NoQuarterState"/>
+<fullyQualifiedTypeName name="HasQuarterState"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="IState"/>
+<fullyQualifiedTypeName name="SoldOutState"/>
+<fullyQualifiedTypeName name="GumballMachine"/>
 </qualifiedTypeNameHistroy>
