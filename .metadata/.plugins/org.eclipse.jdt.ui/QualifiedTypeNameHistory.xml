@@ -23,11 +23,19 @@
 <fullyQualifiedTypeName name="myTrial.DinnerMenu"/>
 <fullyQualifiedTypeName name="myTrial.Waitress"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="NoQuarterState"/>
 <fullyQualifiedTypeName name="HasQuarterState"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="IState"/>
 <fullyQualifiedTypeName name="SoldOutState"/>
 <fullyQualifiedTypeName name="GumballMachine"/>
+<fullyQualifiedTypeName name="IIcon"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.awt.Component"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
