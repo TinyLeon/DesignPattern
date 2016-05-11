@@ -57,7 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="App_Data\TinyLeonConfig\MongodbConfig.config" />
+    <None Include="App_Data\TinyLeonConfig\MongodbConfig.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

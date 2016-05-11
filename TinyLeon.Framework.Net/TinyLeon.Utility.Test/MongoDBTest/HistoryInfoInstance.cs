@@ -30,9 +30,9 @@ namespace TinyLeon.Test.MongoDBTest
         }
 
         private HistoryInfoInstance()
-            : base("TCWirelessIMHistoryInfo")
+            : base("TinyLeonHistoryInfo")
         {
-            this.historyInfoDA = new HistoryInfoDA(this, "TCWirelessIMHistoryInfo");
+            this.historyInfoDA = new HistoryInfoDA(this, "TinyLeonHistoryInfo");
         }
 
         public HistoryInfoDA historyInfoDA { private set; get; }
